@@ -6,7 +6,6 @@ const Introduction = () => {
   return (
     <div>私は{name}です。{age}歳です。今年は{currentYear}年です。</div>
   );
-
 };
 
 export default Introduction;
